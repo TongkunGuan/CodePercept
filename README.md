@@ -1,8 +1,8 @@
 # CodePercept: Code-Grounded Visual STEM Perception for MLLMs
 > 
 > **Official repository for the CVPR 2026 paper: "CodePercept: Code-Grounded Visual STEM Perception for MLLMs"**.
-> Note: Code and weights will be available soon.
 > 
+> Note: Code and weights will be available soon.
 > 
 
 ## 💡 About
